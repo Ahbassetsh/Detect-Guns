@@ -3,7 +3,7 @@ Detect Guns proposed model data and tables
 
 This Repo is organized in folders that containing actual Runs of our code with detection results and confusion matrices as follows:
 
-A- Notebooks of actual running:
+A- Notebooks of Actual Runs:
 ===============================
 - Ablation Study: running our proposed DS on our proposed model with different candidate values of 1st and 2nd stage model hyperparameters
 - DETR: running our proposed DS with DETR model
