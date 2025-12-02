@@ -2,6 +2,9 @@
 Detect Guns proposed model data and tables
 
 This Repo is organized in folders that containing actual Runs of our code with detection results and confusion matrices as follows:
+
+A- Notebooks of actual running:
+===============================
 - Ablation Study: running our proposed DS on our proposed model with different candidate values of 1st and 2nd stage model hyperparameters
 - DETR: running our proposed DS with DETR model
 - Footage DS: running our model on test DS split of footage DS showing the similar results as our proposed DS
@@ -12,3 +15,11 @@ This Repo is organized in folders that containing actual Runs of our code with d
 - Statistical Test: test is running against 2 sets of mAP values (raw values are listed in word file) , and the results proof our model enhancement
 - YOLOv5s: the original model against our 3 versions of proposed weapon DS (1CW, 2CW, and 3CW) with image size 320X320
 - YOLOv8s: the original model against our 3 versions of proposed weapon DS (1CW, 2CW, and 3CW) with image size 320X320
+
+B- Results Tables of Different Metrics:
+=======================================
+- Experimental Results: tables showing comparing of different model results beside the ablation study of our proposed full model
+  
+C- Figures and Tables of the Manuscript:
+=======================================
+- Figures and Tables: collecting the manuscript figures and tables
