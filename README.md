@@ -6,6 +6,7 @@ This Repo is organized in folders that containing actual Runs of our code with d
 A- Notebooks of Actual Runs:
 ===============================
 - Ablation Study: running our proposed DS on our proposed model with different candidate values of 1st and 2nd stage model hyperparameters
+- Classifier Images Auto Sizing: running of the model with various sizes of the classifier object images to assess the automatic method for choosing the unified size
 - DETR: running our proposed DS with DETR model
 - Footage DS: running our model on test DS split of footage DS showing the similar results as our proposed DS
 - MASK R-CNN:  running our proposed DS with original MASK R-CNN model
@@ -15,6 +16,7 @@ A- Notebooks of Actual Runs:
 - Statistical Test: test is running against 2 sets of mAP values (raw values are listed in word file) , and the results proof our model enhancement
 - YOLOv5s: the original model against our 3 versions of proposed weapon DS (1CW, 2CW, and 3CW) with image size 320X320
 - YOLOv8s: the original model against our 3 versions of proposed weapon DS (1CW, 2CW, and 3CW) with image size 320X320
+- YOLOv11s: the original model against our 3 versions of proposed weapon DS (1CW, 2CW, and 3CW) with image size 320X320
 
 B- Results Tables of Different Metrics:
 =======================================
@@ -23,3 +25,7 @@ B- Results Tables of Different Metrics:
 C- Figures and Tables of the Manuscript:
 =======================================
 - Figures and Tables: collecting the manuscript figures and tables
+  
+D- Sample Detections & Error Patterns Frames:
+=======================================
+-  Frames resulted from running the proposed model on our proposed DS, reference DS, and footage DS
