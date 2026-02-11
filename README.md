@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1018968127.svg)](https://doi.org/10.5281/zenodo.15873728)
+
 # Detect-Guns
 Detect Guns proposed model data and tables
 
