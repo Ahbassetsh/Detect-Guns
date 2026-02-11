@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shalaby"
+  given-names: "Ahmed"
+  orcid: "https://orcid.org/0009-0007-1236-680X"
+
+title: "Detect-Guns"
+version: 2.0.0
+doi: 10.5281/zenodo.15873728
+date-released: 2026-02-11
+url: "https://github.com/Ahbassetsh/Detect-Guns"
