@@ -9,7 +9,7 @@ A- Notebooks of Actual Runs:
 - Classifier Images Auto Sizing: running of the model with various sizes of the classifier object images to assess the automatic method for choosing the unified size
 - DETR: running our proposed DS with DETR model
 - Footage DS: running our model on test DS split of footage DS showing the similar results as our proposed DS
-- MASK R-CNN:  running our proposed DS with original MASK R-CNN model
+- Mask R-CNN:  running our proposed DS with original MASK R-CNN model
 - Our Proposed DS: running our proposed model against proposed DS on diff. platforms ( GPU T4, Jeston Nano, and CPU)
 - Reference DS: running our model on reference DS "Weapon Classification" showing the similar results as our proposed DS
 - SSD: running our proposed DS with SSD model
